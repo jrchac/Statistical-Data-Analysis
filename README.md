@@ -1,6 +1,6 @@
 # Statistical Data Analysis 
 
-Welcome to the repository for the assignments of the Statistical Data Analysis course at VU Amsterdam. This repository contains R code and associated files for completing the assignments across various topics in statistical analysis. Below is a brief overview of each assignment:
+Welcome to the repository for my assignments of the Statistical Data Analysis course at VU Amsterdam. This repository contains R code and associated files for completing the assignments across various topics in statistical analysis. Below is a brief overview of each assignment:
 
 **Assignment 1: Summarizing Data**
 - Introduction to summarizing data using descriptive statistics.
