@@ -26,6 +26,6 @@ Welcome to the repository for my assignments of the Statistical Data Analysis co
 - Analysis of categorical data using regression techniques.
 - Introduction to linear regression for modeling relationships between continuous variables.
 
-Assignment 7: Linear Regression
+**Assignment 7: Linear Regression**
 - Further practice with linear regression techniques.
 - Application of linear regression to real-world datasets.
